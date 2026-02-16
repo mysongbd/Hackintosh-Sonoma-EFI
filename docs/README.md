@@ -87,12 +87,12 @@ Designed for:
 
 <div align="center">
 
-<img src="docs/screenshots/1.png" width="45%">
-<img src="docs/screenshots/2.png" width="45%">
-<img src="docs/screenshots/3.png" width="45%">
-<img src="docs/screenshots/4.png" width="45%">
-<img src="docs/screenshots/5.png" width="45%">
-<img src="docs/screenshots/6.png" width="45%">
+<img src="screenshots/1.png" width="45%">
+<img src="screenshots/2.png" width="45%">
+<img src="screenshots/3.png" width="45%">
+<img src="screenshots/4.png" width="45%">
+<img src="screenshots/5.png" width="45%">
+<img src="screenshots/6.png" width="45%">
 
 </div>
 
